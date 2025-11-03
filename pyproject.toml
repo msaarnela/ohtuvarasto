@@ -1,12 +1,6 @@
 [project]
 name = "ohtuvarasto"
-description = ""
-authors = ["Matti Luukkainen"]
-readme = "README.md"
-dynamic = [ "version" ]
-
-[tool.poetry]
-version = "1.0"
+version = "1"
 
 
 [tool.poetry.dependencies]
