@@ -1,6 +1,7 @@
 [tool.poetry]
 name = "ohtuvarasto"
 #version = "0.1.0"
+version = ""
 description = ""
 authors = ["Matti Luukkainen"]
 readme = "README.md"
