@@ -1,10 +1,13 @@
-[tool.poetry]
+[project]
 name = "ohtuvarasto"
-#version = "0.1.0"
-version = ""
 description = ""
 authors = ["Matti Luukkainen"]
 readme = "README.md"
+dynamic = [ "version" ]
+
+[tool.poetry]
+version = "1.0"
+
 
 [tool.poetry.dependencies]
 python = "^3.10"
