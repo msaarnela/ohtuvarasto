@@ -27,4 +27,4 @@ max-statements = 15
 
 [MISCELLANEOUS]
 check-fixme-in-docstring = true
-notes = FIXME, XXX, TODO, KORJAA, KORJATTAVA, KESKEN, RIKKI
+notes = FIXME, XXX, TODO, KORJAA, KORJATTAVA, KORJATTAVAA, KESKEN, RIKKI
